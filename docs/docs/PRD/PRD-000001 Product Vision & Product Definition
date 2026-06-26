@@ -1,0 +1,220 @@
+# PRD-000001
+# Product Vision & Product Definition
+
+Version: 1.0
+Status: Draft
+Owner: CTO
+Project: Hades AI Growth OS
+
+---
+
+# 1. Vision
+
+Hades AI Growth OS is an internal AI-native operating system designed to automate digital growth.
+
+Instead of providing isolated SEO tools, Hades coordinates AI reasoning, AI agents and execution engines to continuously improve website growth with minimal human intervention.
+
+The long-term vision is:
+
+One Mission.
+One Command.
+AI Executes Everything.
+
+---
+
+# 2. Product Position
+
+Hades is NOT:
+
+- A traditional SEO tool
+- A keyword research platform
+- A CMS
+- A website builder
+- A SaaS marketing platform
+
+Hades IS:
+
+An AI Growth Operating System.
+
+SEO is only one Engine.
+
+GEO is only one Engine.
+
+Content is only one Engine.
+
+Publishing is only one Engine.
+
+Everything belongs to one operating system.
+
+---
+
+# 3. Product Scope (V1)
+
+Version 1 is designed for internal team use only.
+
+Characteristics:
+
+- Internal deployment
+- Chinese management console
+- Global-ready architecture
+- English codebase
+- English database schema
+- English API
+- Multi-language content capability
+- Multi-country capability
+
+Not included in V1:
+
+- Multi-tenancy
+- Billing
+- Public registration
+- Marketplace
+- SaaS subscriptions
+
+---
+
+# 4. Core Philosophy
+
+Traditional software requires people to operate functions.
+
+Hades requires people to define objectives.
+
+The AI determines execution.
+
+---
+
+# 5. Mission-Driven Architecture
+
+Everything inside Hades starts with a Mission.
+
+Example:
+
+Mission:
+Increase US organic traffic by 30%.
+
+The system automatically:
+
+- Research competitors
+- Discover keywords
+- Build content plans
+- Generate articles
+- Publish content
+- Create internal links
+- Monitor rankings
+- Optimize continuously
+
+Users manage Missions.
+
+AI manages execution.
+
+---
+
+# 6. Core Components
+
+The operating system consists of three major layers.
+
+Brain
+
+Responsible for planning, reasoning and decision making.
+
+Agents
+
+Responsible for executing intelligent tasks.
+
+Engines
+
+Responsible for completing specific business capabilities.
+
+Examples:
+
+SEO Engine
+
+Content Engine
+
+Crawler Engine
+
+Ranking Engine
+
+Publishing Engine
+
+Analytics Engine
+
+Future engines may be added without changing the architecture.
+
+---
+
+# 7. User Role
+
+Version 1 contains one user role.
+
+Administrator
+
+Responsibilities:
+
+Create Missions
+
+Configure websites
+
+Monitor execution
+
+Approve AI decisions when necessary
+
+Future versions may introduce additional roles.
+
+---
+
+# 8. Design Principles
+
+Documentation First
+
+Architecture First
+
+AI Native
+
+Mission Driven
+
+Plugin First
+
+Automation First
+
+Global Ready
+
+Chinese Console
+
+English Development
+
+Minimal Human Operations
+
+---
+
+# 9. Success Criteria
+
+A successful Hades deployment enables a website to operate growth activities with minimal manual work.
+
+Human responsibilities:
+
+- Define business objectives
+- Review critical decisions
+- Monitor overall performance
+
+AI responsibilities:
+
+- Planning
+- Scheduling
+- Content generation
+- SEO optimization
+- Publishing
+- Analysis
+- Continuous improvement
+
+---
+
+# 10. Future Vision
+
+The long-term objective is to create an operating system where digital growth becomes autonomous.
+
+The user no longer manages SEO.
+
+The user manages business goals.
+
+Everything else is executed by AI.
